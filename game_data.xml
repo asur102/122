@@ -1,0 +1,9 @@
+<!-- game_data.xml -->
+<game>
+  <player>
+    <health>100</health>
+  </player>
+  <enemy>
+    <health>100</health>
+  </enemy>
+</game>
